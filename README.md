@@ -3,9 +3,9 @@
 
 Skills: C++ / C / HTML / CSS / JS / React
 
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning React JS
 - 👯 I’m looking to collaborate on Frontend Projects
-- 😄 Pronouns: he/him 
+
 
 
 
