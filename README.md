@@ -1,7 +1,7 @@
 ### Hi 👋!! Myself Saksham Kadayat
 #### Student & Active learner
 
-Skills: C++ / C / HTML / CSS / JS / React
+Skills: C++ / C / HTML / CSS / JS / React JS
 
 - 🌱 I’m currently learning React JS
 - 👯 I’m looking to collaborate on Frontend Projects
