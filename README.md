@@ -25,7 +25,7 @@ I specialize in crafting:
 
 ## 🤝 Hire Me
 
-Looking for a dedicated web developer to take your project to the next level? I'm here to help! Let's discuss your requirements and create something amazing together. Reach out to me via email or LinkedIn.
+Looking for a dedicated web developer to take your project to the next level?  Let's discuss your requirements and create something amazing together. Reach out to me via email or LinkedIn.
 
 ## 🌟 Why Choose Me?
 
