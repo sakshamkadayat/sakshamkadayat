@@ -6,16 +6,6 @@ I'm Saksham Kadayat, a passionate web developer with expertise in creating stunn
 
 - **Frontend:** React.js, HTML, CSS, JavaScript
 - **Version Control:** Git
-- **Tools:** VSCode, Webpack, Babel
-
-
-## 🚀 What I Do
-
-I specialize in crafting:
-
-- 🌟 Responsive and user-friendly websites
-- 🎨 Modern and sleek portfolio designs
-- 🔧 Custom web applications tailored to your needs
 
 ## 📫 Let's Connect
 
@@ -23,18 +13,3 @@ I specialize in crafting:
 - 🌐 Portfolio: saksham03.com.np
 - 📧 Email: sakshamkadayat@gmail.com
 
-## 🤝 Hire Me
-
-Looking for a dedicated web developer to take your project to the next level?  Let's discuss your requirements and create something amazing together. Reach out to me via email or LinkedIn.
-
-## 🌟 Why Choose Me?
-
-- Quick Response ⚡
-- Fast Delivery 🚚
-- 100% Accuracy ✔️
-- 24/7 Availability 🕒
-- Affordable Rates 💰
-
-Let's bring your ideas to life! Drop me a message, and let's get started on your project.
-
-Happy coding! 👩‍💻👨‍💻
